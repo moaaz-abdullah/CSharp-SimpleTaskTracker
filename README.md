@@ -2,6 +2,8 @@
 
 A small educational console application built with C# for practicing programming fundamentals and problem-solving.
 
+> Note: This is a simple educational project made for learning and revision purposes only.
+
 ## Features
 - Add tasks
 - View all tasks
@@ -22,7 +24,6 @@ This project was created as a small practice/revision project to improve underst
 - User input handling
 - Basic application structure
 
-> Note: This is a simple educational project made for learning and revision purposes only.
 
 ## How to Run
 1. Clone the repository
@@ -36,3 +37,5 @@ This project was created as a small practice/revision project to improve underst
 3 - Mark task as complete
 4 - Delete task
 5 - Quit
+
+### Moaaz Abdullah
