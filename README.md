@@ -25,11 +25,6 @@ This project was created as a small practice/revision project to improve underst
 - Basic application structure
 
 
-## How to Run
-1. Clone the repository
-2. Open the project in Visual Studio
-3. Run the application
-
 ## Example
 ```bash
 1 - Add task
